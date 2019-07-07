@@ -1,0 +1,104 @@
+header {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+body > header >div> img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+/*NAVBARCOMPONENT*/
+body > header > ul {
+    margin: 0;
+    list-style: none;
+    position: absolute;
+    right: 3.5vw;
+    top: 6vh;
+}
+
+body > header > ul > li {
+    display: inline-block;
+    padding: 1vw;
+    color: #78767D;
+    font-family: "Arial Black";
+    font-size: 14px;
+}
+
+body > header > ul > li > a {
+    color: #9E9DA5;
+    text-decoration: none;
+}
+
+body > header > ul > li > a:hover {
+    color: white;
+}
+
+body > header > ul > li > a::after {
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #47cf73;
+    transition: width 1s;
+    content: '';
+}
+
+body > header > ul > li > a:hover::after {
+    width: 100%;
+    transition: width .5s;
+}
+/*IAM NAME */
+
+
+body > header > div > text {
+    position: absolute;
+    top: 37%;
+    left: 13vw;
+}
+
+body > header > div > text > h1:nth-child(1) {
+    font-size: 30px;
+    color: white;
+    font-family: Arial;
+
+}
+
+body > header > div > text > text1 {
+    position: absolute;
+    margin: 0;
+
+}
+
+body > header > div > text > text1 > p:nth-child(1) {
+    font-size: 30px;
+    color: white;
+    font-family: oblique;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+
+body > header > div > text > text1 > p:nth-child(1):first-letter {
+    color: #47cf73;
+    font-family: Arial;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-decoration: underline #47cf73 solid;
+}
+
+body > header > div > text > text1 > text2 {
+    position: absolute;
+    top: 60%;
+    margin: 0;
+}
+
+body > header > div > text > text1 > text2 > p:nth-child(1) {
+    font-size: 20px;
+    color: #47cf73;
+    font-family: oblique;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+

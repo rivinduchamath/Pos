@@ -1,0 +1,261 @@
+.fig-01 {
+    font-size: 18px;
+    margin-left: 9vw;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    background-color: #47cf73;
+    color: black;
+    margin-top: 50px;
+    width: 380px;
+    height: 40px;
+    padding: 20px 10px 0px;
+    text-align: center;
+    border-top-right-radius: 5px 5px;
+    border-top-left-radius: 5px 5px;
+
+}
+
+#demo1 {
+    display: inline;
+    width: 400px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+}
+
+.btn-99 {
+    margin-top: 0px;
+    background-color: #47cf73;
+    font-weight: bold;
+    font-size: 15px;
+    height: 37px;
+    width: 400px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 9%;
+    display: block;
+    font-family: Constantia;
+    border: #47cf73;
+}
+
+.btn-99:hover {
+    background-color: #0e9d00;
+    border: #47cf73;
+    color: white;
+}
+
+#demo2 {
+    display: inline;
+    width: 399px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 60px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+    border-left: 4px solid black;
+}
+
+#demo3 {
+    display: inline;
+    width: 399px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+    border-right: 4px solid black;
+}
+
+#demo4 {
+    display: inline;
+    width: 399px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+    border-left: 4px solid black;
+}
+
+#demo5 {
+    display: inline;
+    width: 399px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+    border-right: 4px solid black;
+}
+
+#demo6 {
+    display: inline;
+    width: 399px;
+    border: white;
+    height: 30px;
+    margin-left: 9%;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid black;
+    border-left: 4px solid black;
+}
+
+.bt-46 {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Comic Sans MS";
+    background-color: #9d000d;
+    border: #9d000d;
+    margin-left: 9vw;
+    color: white;
+}
+
+.bt-46:hover {
+    background-color: #f70500;
+}
+
+.bt-45 {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: "Comic Sans MS";
+    background-color: #1722f7;
+    border: #1722f7;
+    margin-left: -4px;
+    color: white;
+}
+
+.bt-45:hover {
+    background-color: #12b8f7;
+}
+
+.bt-44 {
+    width: 100px;
+    cursor: pointer;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Comic Sans MS";
+    background-color: #b7b000;
+    border: #b7b000;
+    margin-left: -4px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.bt-44:hover {
+    background-color: #fff400;
+}
+
+.bt-47 {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: "Comic Sans MS";
+    background-color: #0e9d00;
+    border: #0e9d00;
+    margin-left: -4px;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.bt-47:hover {
+    background-color: #47cf73;
+}
+
+.bt-48 {
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+
+    font-family: "Comic Sans MS";
+    background-color: #b7b000;
+    cursor: pointer;
+    border: #b7b000;
+    margin-left: 10px;
+    color: white;
+
+}
+
+.bt-48:hover {
+    background-color: #22b7ab;
+
+}
+
+/*table*/
+.tr1 {
+    width: 70%;
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+
+}
+
+caption {
+    width: 200px;
+    height: 25px;
+    margin-bottom: 20px;
+
+    margin-left: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px
+}
+
+th, td {
+    padding: 5px
+}
+
+th, caption {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #fff;
+}
+
+tr:nth-child(odd) {
+    background-color: #ddd;
+}

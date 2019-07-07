@@ -1,0 +1,28 @@
+body > footer {
+    height:100px;
+
+    position: relative;
+    width: 100%;
+    background: linear-gradient(#fff,#FBFBFB,#F4F4F6,#EEEEF1,#E8E6ED,#DEDDE5,#C9C8D0,#BBBAC3,#9E9DA5,#8D8B93, #7A7881,#78767D,#66656B, #4C4B4E,#363639,#1C1439,#1E1E1E,#070707  );
+}
+body>footer>div>p {
+    position: relative;
+    top: 5vh;
+    margin: 0;letter-spacing: 3px;
+}
+
+body>footer>div>p{
+    font-family: Candara;
+    width: 430px;
+    height: 100%;
+    font-size: 17px;
+    position: relative;
+    left: 0;
+    letter-spacing: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding-top: 10px;
+    top: 23px;
+
+}

@@ -1,0 +1,40 @@
+#demo1{
+    display: inline;
+    width: 50%;
+    border: white;
+    height: 30px;
+    margin-left: 25%;
+    text-align: left;
+    font-size: 16px;
+    border-bottom: 2px solid black;
+}
+
+#demo2{
+    display: inline;
+    width: 50%;
+    border: white;
+    margin-top: 15px;
+    font-size: 16px;
+    height: 30px;
+    margin-left: 25%;
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+.btn-99{
+    margin-top: 40px;
+    background-color: #47cf73;
+    font-weight: bold;
+    font-size: 15px;
+    height: 37px;
+    width: 130px;
+    text-align: center;
+    margin-left: 44%;
+    font-family: Constantia;
+    border: #47cf73;
+}
+.btn-99:hover{
+    background-color: #0e9d00;
+    border: #47cf73;
+    color: white;
+}
